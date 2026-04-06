@@ -123,3 +123,8 @@ Community Impact Guidelines were inspired by
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+## 执行
+项目维护者有权删除、编辑或拒绝不符合本行为准则的评论、提交、代码等。
+## 归属
+本行为准则改编自 Contributor Covenant 2.1 版本。

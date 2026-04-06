@@ -39,3 +39,5 @@
 
 **感谢每一位贡献者！**  
 本项目遵循 [CODE_OF_CONDUCT](CODE_OF_CONDUCT) 和 [LICENSE](LICENSE)。
+
+欢迎所有贡献、错误报告、错误修复、文档改进、增强和想法。
